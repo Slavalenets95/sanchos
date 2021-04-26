@@ -1265,4 +1265,5 @@ p {
         -ms-flex-order: -1;
             order: -1;
     text-align: center;
-    margin-top: 20px; } }
+    margin-top: 20px; }
+  .gallery__img{height: 100%}}
