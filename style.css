@@ -1443,4 +1443,7 @@ p {
             order: -1;
     text-align: center;
     margin-top: 20px;
-  margin-left: 0;} }
+  margin-left: 0;}
+.gallery__img{
+  max-height: 100%;}
+}
